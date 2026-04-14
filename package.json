@@ -1,0 +1,12 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "A simple calculator app",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080"
+  },
+  "keywords": ["calculator"],
+  "author": "",
+  "license": "ISC"
+}
